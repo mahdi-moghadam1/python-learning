@@ -16,5 +16,5 @@ Topics
 
   Goal
 
-Build a strong foundation in Python and move on to
-AI, and more advanced programming projects.
+Build a strong foundation in Python and gradually move on to
+more advanced programming and computer science topics.
